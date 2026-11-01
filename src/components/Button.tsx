@@ -65,14 +65,16 @@ const styles = StyleSheet.create({
     alignSelf: "stretch",
   },
   filled: {
-    backgroundColor: colors.chalk,
+    backgroundColor: colors.fill,
+    borderColor: colors.fill,
   },
   filledPressed: {
-    backgroundColor: colors.chalkPressed,
-    borderColor: colors.chalkPressed,
+    backgroundColor: colors.fillPressed,
+    borderColor: colors.fillPressed,
   },
   outline: {
     backgroundColor: colors.ink,
+    borderColor: colors.chalk,
   },
   outlinePressed: {
     backgroundColor: colors.inkRaised,

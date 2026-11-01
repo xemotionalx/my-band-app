@@ -26,7 +26,7 @@ export default function TabsLayout() {
             <HugeiconsIcon
               icon={Home01Icon}
               color={color}
-              size={24}
+              size={28}
               strokeWidth={iconStroke}
             />
           ),
@@ -40,7 +40,7 @@ export default function TabsLayout() {
             <HugeiconsIcon
               icon={UserCircleIcon}
               color={color}
-              size={24}
+              size={28}
               strokeWidth={iconStroke}
             />
           ),

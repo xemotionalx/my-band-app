@@ -1,4 +1,4 @@
-# Quiet Time
+# My Band App
 
 A mobile app for unhurried, focused quiet time on iOS and Android.
 

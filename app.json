@@ -1,19 +1,19 @@
 {
   "expo": {
-    "name": "Quiet Time",
-    "slug": "quiet-time",
+    "name": "My Band App",
+    "slug": "my-band-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "quiettime",
+    "scheme": "mybandapp",
     "userInterfaceStyle": "automatic",
     "platforms": ["ios", "android"],
     "ios": {
       "icon": "./assets/expo.icon",
-      "bundleIdentifier": "com.maiada.quiettime"
+      "bundleIdentifier": "com.maiada.mybandapp"
     },
     "android": {
-      "package": "com.maiada.quiettime",
+      "package": "com.maiada.mybandapp",
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/images/android-icon-foreground.png",

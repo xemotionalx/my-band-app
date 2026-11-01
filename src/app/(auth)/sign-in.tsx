@@ -48,13 +48,11 @@ export default function SignIn() {
         >
           <View>
             <View style={styles.top}>
-              <Icon name="moon" size={64} strokeWidth={3} />
+              <Icon name="moon" size={64} strokeWidth={2.5} />
             </View>
             <View style={styles.header}>
               <Text style={styles.heading}>Welcome back</Text>
-              <Text style={styles.subtitle}>
-                Sign back in to the Quiet Time app.
-              </Text>
+              <Text style={styles.subtitle}>Sign back in to My Band App.</Text>
             </View>
             <View style={styles.fields}>
               <TextField

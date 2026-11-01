@@ -23,7 +23,7 @@ import { aliases, colors, space, type } from "@/theme/tokens";
 // hook_before_user_created (supabase/migrations) rejects with HTTP 403 and
 // this message when the email isn't in approved_emails.
 const NOT_APPROVED_STATUS = 403;
-const NOT_APPROVED_HINT = "Quiet Time list";
+const NOT_APPROVED_HINT = "My Band App list";
 
 export default function SignUp() {
   const [email, setEmail] = useState("");
